@@ -1,4 +1,0 @@
-git init
-git add .
-git commit -m "feat: AutoTube AI autonomous YouTube channel studio & monetization engine"
-git branch -M main
